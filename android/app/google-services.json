@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189715062354",
+    "project_id": "sampl-work-00133",
+    "storage_bucket": "sampl-work-00133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189715062354:android:6e6019c1a043a868a8098b",
+        "android_client_info": {
+          "package_name": "com.arApps.pim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArPkmdTMBbgJhvkGVPAM2uP9SCkcbWF24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
